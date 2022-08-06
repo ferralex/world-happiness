@@ -1,6 +1,7 @@
 # World Happiness
 **Vizualizing the countries happiness score from 2015 to 2022 with Tableau**
 
+![World Happiness Dashboard](https://github.com/ferralex/world-happiness/blob/main/world_happiness_dashboard.jpg)
 
 Starting from [these datasets](https://www.kaggle.com/datasets/mthajnal/worldhappinessreport20152022/metadata) I made a simple yet efficient dashboard using Tableau.
 
