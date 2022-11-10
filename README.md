@@ -11,5 +11,6 @@ The user can filter the data by year (from 2015 to 2022) and by country.
 
 Changing the year, the ranking on the left side changes automatically.
 
+When data is missing, a country is colored in black. A low happiness score is represented with red/orange colors while a higher level is represented with light blue/blue colors.
 
 You can play with the dashboard at [this link](https://public.tableau.com/app/profile/alessandro.ferrarese/viz/WorldHappiness_16595864847270/Dashboard1)
